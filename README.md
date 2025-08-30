@@ -3,9 +3,9 @@
 
 使用方法：
 （1）# 处理单个文件，输出到同名但添加"="的文件（下例中，即input=.txt）
-python script3.py input.txt
+python pb.py input.txt
 （2）# 指定输入和输出文件
-python script3.py input.txt output.txt
+python pb.py input.txt output.txt
 
 注意事项及功能特性：
 （1）仅支持UTF-8编码的文本文件
